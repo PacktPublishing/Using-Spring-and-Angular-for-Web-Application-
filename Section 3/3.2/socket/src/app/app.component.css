@@ -1,0 +1,12 @@
+.example-full-width {
+  width: 100%;
+}
+
+.chat-card{
+  width: 500px;
+}
+
+.chat-content{
+  height: 300px;
+  overflow-y: auto;
+}
